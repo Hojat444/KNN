@@ -25,3 +25,5 @@ After training the model on the entire training set, the program makes predictio
 4. Run the Python script:
 
 The program will output the cross-validation scores, mean score, confusion matrix, and classification report, as well as save a visualization of the confusion matrix as a PNG file named `knn.png`.
+
+![alt text](https://github.com/Hojat444/KNN/blob/main/knn.png)
