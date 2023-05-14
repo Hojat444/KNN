@@ -26,6 +26,3 @@ After training the model on the entire training set, the program makes predictio
 
 The program will output the cross-validation scores, mean score, confusion matrix, and classification report, as well as save a visualization of the confusion matrix as a PNG file named `knn.png`.
 """
-
-with open("README.md", "w") as f:
- f.write(readme)
